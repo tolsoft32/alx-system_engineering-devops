@@ -1,3 +1,2 @@
-#!/bin/bash
-mv [[:upper:]]*/tmp/u
-mv (space)[[:upper:]]*(space)/tmp/u
+#!/bin/nash
+source ./2-bring_me_home
